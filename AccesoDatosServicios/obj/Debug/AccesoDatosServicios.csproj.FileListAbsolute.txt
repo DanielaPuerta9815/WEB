@@ -1,0 +1,24 @@
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csprojAssemblyReference.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.pdb
+C:\Users\bryan\OneDrive\Escritorio\FinalDLLO\SaludAtuAlcance\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.dll
+C:\Users\bryan\OneDrive\Escritorio\FinalDLLO\SaludAtuAlcance\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.pdb
+C:\Users\bryan\OneDrive\Escritorio\FinalDLLO\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Escritorio\FinalDLLO\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Escritorio\FinalDLLO\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.dll
+C:\Users\bryan\OneDrive\Escritorio\FinalDLLO\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.pdb
+C:\Users\asus\Downloads\SaludAtuAlcance\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.dll
+C:\Users\asus\Downloads\SaludAtuAlcance\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.pdb
+C:\Users\asus\Downloads\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.dll
+C:\Users\asus\Downloads\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.pdb
+E:\Datos_User\Downloads\wetransfer-7ee849\SaludAtuAlcance (2)\SaludAtuAlcance\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.dll
+E:\Datos_User\Downloads\wetransfer-7ee849\SaludAtuAlcance (2)\SaludAtuAlcance\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.pdb
+E:\Datos_User\Downloads\wetransfer-7ee849\SaludAtuAlcance (2)\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csprojAssemblyReference.cache
+E:\Datos_User\Downloads\wetransfer-7ee849\SaludAtuAlcance (2)\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csproj.CoreCompileInputs.cache
+E:\Datos_User\Downloads\wetransfer-7ee849\SaludAtuAlcance (2)\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.dll
+E:\Datos_User\Downloads\wetransfer-7ee849\SaludAtuAlcance (2)\SaludAtuAlcance\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.pdb
